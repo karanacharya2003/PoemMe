@@ -1,4 +1,4 @@
-![Frame 67](https://github.com/notsanidhyak/Poetica/assets/86651116/fd740994-d768-4aa0-a3ef-fccab1d69245)
+
 
 
 # Poetica
@@ -11,7 +11,6 @@ Poetica is an AI with Long Short Term Memory Network (LSTM) with over 200 cells 
 
 <br>
 
-> View notebook on [Kaggle](https://www.kaggle.com/code/sanidhyak/poemsbyai)
 <br>
 
 ### ⚒️ Architecture
