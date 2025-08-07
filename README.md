@@ -34,7 +34,7 @@ Poetica is an AI with Long Short Term Memory Network (LSTM) with over 200 cells 
 ### 💡 Improvements needed
 <br>
 
-The current version of poetica (v1.0) has accuracy of around 80% over 500 epochs and still has a scope of improvement. To contribute to this project, the notebook can be copied from [kaggle](https://www.kaggle.com/code/sanidhyak/poemsbyai) and enhacements to the neural network can be done to raise the overall performance.
+The current version of poetica (v1.0) has accuracy of around 80% over 500 epochs and still has a scope of improvement.
 
 <br>
 
@@ -51,7 +51,6 @@ The current version of poetica (v1.0) has accuracy of around 80% over 500 epochs
 ### ❤️ Feedback
 <br>
 
-If you have any feedback or suggestions please reach out to the project admin [sanidhyak](https://github.com/notsanidhyak) or you can create an [issue](https://github.com/notsanidhyak/Poetica/issues) and mention there which new features can be added to make Poetica better.
 
 
 
