@@ -1,13 +1,13 @@
 
 
 
-# Poetica
+# PoemMe
 <br>
 
 > Bytes igniting the literary passion (a beta phase model). 
 <br>
 
-Poetica is an AI with Long Short Term Memory Network (LSTM) with over 200 cells using Recurrent Neural Networks (RNNs) that can compose Shakespeare-like poetry given the line starter and the word count needed. This artificial neural net has a vocabulary of more than **3800 words** and an accuracy rate of over 80% on it’s n-grammed training dataset.
+PoemMe is an AI with Long Short Term Memory Network (LSTM) with over 200 cells using Recurrent Neural Networks (RNNs) that can compose Shakespeare-like poetry given the line starter and the word count needed. This artificial neural net has a vocabulary of more than **3800 words** and an accuracy rate of over 80% on it’s n-grammed training dataset.
 
 <br>
 
