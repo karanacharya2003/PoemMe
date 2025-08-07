@@ -20,14 +20,14 @@ Poetica is an AI with Long Short Term Memory Network (LSTM) with over 200 cells 
 <br>
 
 
-![Frame 68](https://github.com/notsanidhyak/Poetica/assets/86651116/2fd15c23-d7a6-4cd1-9fc4-9715deb4147e)
+![Frame](https://github.com/karanacharya2003/PoemMe/blob/187a68448076e0189085ad101eff369e3a7b639a/assets/arch.png)
 
 <br>
 
 - Neural Net Architecture -
 <br>
 
-![Screenshot 2023-06-27 164954](https://github.com/notsanidhyak/Poetica/assets/86651116/767335d7-e327-4c5b-a2ca-e96bcd72a8b8)
+![neu arch](https://github.com/karanacharya2003/PoemMe/blob/187a68448076e0189085ad101eff369e3a7b639a/assets/ana.png)
 
 <br>
 
@@ -38,7 +38,7 @@ The current version of poetica (v1.0) has accuracy of around 80% over 500 epochs
 
 <br>
 
-![image](https://github.com/notsanidhyak/Poetica/assets/86651116/a4df29d7-7140-474b-b2f6-da46ab245850)
+![image](https://github.com/karanacharya2003/PoemMe/blob/187a68448076e0189085ad101eff369e3a7b639a/assets/graph.png)
 
 <br>
 
